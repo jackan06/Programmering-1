@@ -1,0 +1,7 @@
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\bin\Debug\Övning 5.exe.config
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\bin\Debug\Övning 5.exe
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\bin\Debug\Övning 5.pdb
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\obj\Debug\Övning 5.csproj.AssemblyReference.cache
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\obj\Debug\Övning 5.csproj.CoreCompileInputs.cache
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\obj\Debug\Övning 5.exe
+C:\Skola\Programmering\C#\Repetion 1-7\Övning 5\obj\Debug\Övning 5.pdb
