@@ -1,0 +1,8 @@
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\bin\Debug\Uppgift strängar_fält.exe.config
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\bin\Debug\Uppgift strängar_fält.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\bin\Debug\Uppgift strängar_fält.pdb
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\obj\Debug\Uppgift strängar_fält.csproj.AssemblyReference.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\obj\Debug\Uppgift strängar_fält.csproj.SuggestedBindingRedirects.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\obj\Debug\Uppgift strängar_fält.csproj.CoreCompileInputs.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\obj\Debug\Uppgift strängar_fält.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Uppgift strängar_fält\obj\Debug\Uppgift strängar_fält.pdb
