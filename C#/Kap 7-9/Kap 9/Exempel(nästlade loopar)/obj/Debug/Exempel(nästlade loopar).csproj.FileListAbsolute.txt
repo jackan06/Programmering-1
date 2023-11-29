@@ -1,0 +1,8 @@
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\bin\Debug\Exempel(nästlade loopar).exe.config
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\bin\Debug\Exempel(nästlade loopar).exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\bin\Debug\Exempel(nästlade loopar).pdb
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\obj\Debug\Exempel(nästlade loopar).csproj.AssemblyReference.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\obj\Debug\Exempel(nästlade loopar).csproj.SuggestedBindingRedirects.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\obj\Debug\Exempel(nästlade loopar).csproj.CoreCompileInputs.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\obj\Debug\Exempel(nästlade loopar).exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Exempel(nästlade loopar)\obj\Debug\Exempel(nästlade loopar).pdb
