@@ -1,0 +1,8 @@
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\bin\Debug\Extra uppgift9_3.exe.config
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\bin\Debug\Extra uppgift9_3.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\bin\Debug\Extra uppgift9_3.pdb
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\obj\Debug\Extra uppgift9_3.csproj.AssemblyReference.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\obj\Debug\Extra uppgift9_3.csproj.SuggestedBindingRedirects.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\obj\Debug\Extra uppgift9_3.csproj.CoreCompileInputs.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\obj\Debug\Extra uppgift9_3.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Kap 9\Extra uppgift9_3\obj\Debug\Extra uppgift9_3.pdb
