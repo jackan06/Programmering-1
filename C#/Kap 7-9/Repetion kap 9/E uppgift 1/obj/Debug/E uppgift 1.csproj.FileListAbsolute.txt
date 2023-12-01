@@ -1,0 +1,11 @@
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\bin\Debug\E uppgift 1.exe.config
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\bin\Debug\E uppgift 1.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\bin\Debug\E uppgift 1.pdb
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.csproj.AssemblyReference.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.csproj.SuggestedBindingRedirects.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E_uppgift_1.Form1.resources
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E_uppgift_1.Properties.Resources.resources
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.csproj.GenerateResource.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.csproj.CoreCompileInputs.cache
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.exe
+I:\rbk\Elevmappar\2023\PROG1122340\Jakob Stenbom M TE8 22 LJO\Repetion kap 9\E uppgift 1\obj\Debug\E uppgift 1.pdb
