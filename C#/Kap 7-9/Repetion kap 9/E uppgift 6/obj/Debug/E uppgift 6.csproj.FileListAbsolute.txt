@@ -1,0 +1,7 @@
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\bin\Debug\E uppgift 6.exe.config
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\bin\Debug\E uppgift 6.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\bin\Debug\E uppgift 6.pdb
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\obj\Debug\E uppgift 6.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\obj\Debug\E uppgift 6.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\obj\Debug\E uppgift 6.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 6\obj\Debug\E uppgift 6.pdb
