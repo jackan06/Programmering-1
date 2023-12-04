@@ -16,14 +16,37 @@ namespace C_A_uppgift_2
             string tal = Console.ReadLine();
             int siffra = int.Parse(tal);
             double output = 0;
+            bool tillåtet = false;
 
-            
-
-            for (int i = 0; i < tal.Length; i++)
+            for (int j = 0; j < tal.Length; j++)
             {
-                output += (tal[i]-48) * Math.Pow(talbas, ((tal.Length-1)-i));
+                for (int i = 0; i < tal.Length && tillåtet==false; i++)
+                {
+                    if ((tal[j]-48) == (talbas - 1 - i))
+                    {
+                        tillåtet = true;
+                        Console.WriteLine((tal[j] - 48));
+                        break;
+                    }
+                    else
+                    {
+                        tillåtet = false;
+                    }
+                }
+                
             }
 
+            if(tillåtet == true)
+            {
+                Console.WriteLine("Fel inmatning");
+            }
+
+            for (int i = 0; i < tal.Length && tillåtet==false; i++)
+            {
+                output += (tal[i] - 48) * Math.Pow(talbas, ((talbas - 1) - i));
+            }
+
+            
 
             Console.WriteLine("Output: " + output);
 
