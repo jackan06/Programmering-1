@@ -1,0 +1,10 @@
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\bin\Debug\E uppgift 5.exe.config
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\bin\Debug\E uppgift 5.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\bin\Debug\E uppgift 5.pdb
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E uppgift 5.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E_uppgift_5.Form1.resources
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E_uppgift_5.Properties.Resources.resources
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E uppgift 5.csproj.GenerateResource.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E uppgift 5.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E uppgift 5.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\E uppgift 5\obj\Debug\E uppgift 5.pdb
