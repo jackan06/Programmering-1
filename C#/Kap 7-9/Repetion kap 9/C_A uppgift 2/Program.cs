@@ -16,7 +16,6 @@ namespace C_A_uppgift_2
             string tal = Console.ReadLine();
             int siffra = int.Parse(tal);
             double output = 0;
-<<<<<<< HEAD
             bool godkändaTal = true;
 
             for (int j = 0; j < tal.Length && godkändaTal; j++)
@@ -28,34 +27,10 @@ namespace C_A_uppgift_2
             }
 
             if (godkändaTal == false)
-=======
-            bool tillåtet = false;
-
-            for (int j = 0; j < tal.Length; j++)
-            {
-                for (int i = 0; i < tal.Length && tillåtet==false; i++)
-                {
-                    if ((tal[j]-48) == (talbas - 1 - i))
-                    {
-                        tillåtet = true;
-                        Console.WriteLine((tal[j] - 48));
-                        break;
-                    }
-                    else
-                    {
-                        tillåtet = false;
-                    }
-                }
-                
-            }
-
-            if(tillåtet == true)
->>>>>>> b55ce6d947f3fea74eb8a338338ea6d3aece4401
             {
                 Console.WriteLine("Fel inmatning");
             }
-
-<<<<<<< HEAD
+        
             for (int i = 0; i < tal.Length && godkändaTal; i++)
             {
                 output += (tal[i] - 48) * Math.Pow(talbas, ((tal.Length - 1) - i));
@@ -65,15 +40,6 @@ namespace C_A_uppgift_2
             {
                 Console.WriteLine("Output: " + output);
             }
-=======
-            for (int i = 0; i < tal.Length && tillåtet==false; i++)
-            {
-                output += (tal[i] - 48) * Math.Pow(talbas, ((talbas - 1) - i));
-            }
-
-            
->>>>>>> b55ce6d947f3fea74eb8a338338ea6d3aece4401
-
 
             Console.ReadKey();
         }
