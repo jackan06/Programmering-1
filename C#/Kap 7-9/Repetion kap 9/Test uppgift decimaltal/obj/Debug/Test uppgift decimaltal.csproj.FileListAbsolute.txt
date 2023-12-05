@@ -1,0 +1,7 @@
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\obj\Debug\Test uppgift decimaltal.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\obj\Debug\Test uppgift decimaltal.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\bin\Debug\Test uppgift decimaltal.exe.config
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\bin\Debug\Test uppgift decimaltal.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\bin\Debug\Test uppgift decimaltal.pdb
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\obj\Debug\Test uppgift decimaltal.exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift decimaltal\obj\Debug\Test uppgift decimaltal.pdb

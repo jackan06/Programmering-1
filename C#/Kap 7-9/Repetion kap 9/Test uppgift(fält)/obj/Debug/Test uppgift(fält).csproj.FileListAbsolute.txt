@@ -1,0 +1,7 @@
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\bin\Debug\Test uppgift(fält).exe.config
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\bin\Debug\Test uppgift(fält).exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\bin\Debug\Test uppgift(fält).pdb
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\obj\Debug\Test uppgift(fält).csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\obj\Debug\Test uppgift(fält).csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\obj\Debug\Test uppgift(fält).exe
+C:\Users\jakob\source\repos\jackan06\Programmering-1\C#\Kap 7-9\Repetion kap 9\Test uppgift(fält)\obj\Debug\Test uppgift(fält).pdb
